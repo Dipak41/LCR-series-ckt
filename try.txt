@@ -1,0 +1,21 @@
+# To plot a Graph between currnet and Frequency in an LCR series Ckt.
+# To find the resonant frequency of the seires CKt
+# 01-August 2020
+# S.N. Resistance (R1, Ohm) Frequency (kHz) Current (mA) Resistance (R2, Ohm) Frequency (kHz) Current (mA)
+#
+#
+1 47 0.638 2 100 0.6151 2
+2 47 1.347 6 100 1.325 6
+3 47 1.783 10 100 1.786 10
+4 47 2.081 14 100 2.160 14
+5 47 2.299 18 100 2.304 16
+6 47 2.494 22 100 2.450 18
+7 47 2.682 26 100 2.615 20
+8 47 2.903 28 100 2.910 22
+9 47 3.129 26 100 3.267 20
+10 47 3.411 22 100 3.483 18
+11 47 3.712 18 100 3.712 16
+12 47 4.155 14 100 3.991 14
+13 47 5.016 10 100 4.843 10 
+14 47 6.747 6 100 6.731 6
+15 47 14.51 2 100 15.50 2
